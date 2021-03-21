@@ -3,14 +3,14 @@ A way to analyse how malware and/or goodware samples vary from each other using 
 
 
 # References
-https://en.wikipedia.org/wiki/Entropy_(information_theory)
+[Entropy Wiki](https://en.wikipedia.org/wiki/Entropy_(information_theory))
 <br>
-https://github.com/venkat-abhi/Entropy-Calculator/blob/master/shanon-calc.py
+[Shannon Calculator](https://github.com/venkat-abhi/Entropy-Calculator/blob/master/shanon-calc.py)
 <br>
-https://arxiv.org/ftp/arxiv/papers/1903/1903.10208.pdf
+[Referenced Article #1](https://www.talentcookie.com/2016/02/05/file-entropy-in-malware-analysis/)
 <br>
-https://www.talentcookie.com/2016/02/05/file-entropy-in-malware-analysis/
+[Referenced Paper #1](https://arxiv.org/ftp/arxiv/papers/1903/1903.10208.pdf)
 <br>
-https://www.researchgate.net/publication/3437909_Using_Entropy_Analysis_to_Find_Encrypted_and_Packed_Malware
+[Referenced Paper #2](https://www.researchgate.net/publication/3437909_Using_Entropy_Analysis_to_Find_Encrypted_and_Packed_Malware)
 <br>
-https://www.researchgate.net/publication/334686946_Machine_Learning_Based_File_Entropy_Analysis_for_Ransomware_Detection_in_Backup_Systems
+[Referenced Paper #3](https://www.researchgate.net/publication/334686946_Machine_Learning_Based_File_Entropy_Analysis_for_Ransomware_Detection_in_Backup_Systems)
