@@ -8,7 +8,6 @@ class JaroDistanceException(Exception):
 
 def jaro_distance(word_a, word_b, winkler=True, winkler_ajustment=True, scaling=0.1):
     """
-
         Calculates the Jaro Distance of two strings,
         includes Winkler adjustments to the Jaro Distance Algorithm.
 
@@ -19,7 +18,6 @@ def jaro_distance(word_a, word_b, winkler=True, winkler_ajustment=True, scaling=
         :param scaling: scaling factor for the Winkler adjustment
 
         :return: Jaro distance adjusted (or not)
-
     """
 
     if not word_a or not word_b:
