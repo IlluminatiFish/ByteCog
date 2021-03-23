@@ -13,7 +13,6 @@
 	<img alt="Codacy Grade" src="https://app.codacy.com/project/badge/Grade/06c8bdaa68414b7b84c096dbd47c0944">
   <img src="https://img.shields.io/github/languages/code-size/IlluminatiFish/ByteCog">
   <img src="https://img.shields.io/github/license/IlluminatiFish/ByteCog">
-  <img src="https://img.shields.io/github/downloads/IlluminatiFish/ByteCog/total">
   <img src="https://img.shields.io/github/last-commit/IlluminatiFish/ByteCog">
 </p>  
 
