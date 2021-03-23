@@ -6,10 +6,13 @@
 A way to analyse how malware and/or goodware samples vary from each other using <a href="https://en.wikipedia.org/wiki/Entropy_(information_theory)">Shannon Entropy</a>, <a href="https://en.wikipedia.org/wiki/Hausdorff_distance">Hausdorff Distance</a> and <a href="https://en.wikipedia.org/wiki/Jaro%E2%80%93Winkler_distance">Jaro-Winkler Distance</a>
 
 # Screenshots
+
 Chunked Entropy Graph
+<br>
 ![chunk_entropy_graph](https://user-images.githubusercontent.com/45714340/112214987-bdb7ae00-8c17-11eb-98c0-bebcda6fc1ba.png)
 
 Output of ByteCog
+<br>
 ![bytecog_output](https://user-images.githubusercontent.com/45714340/112215120-e475e480-8c17-11eb-908d-a2e4c205521c.png)
 
 
