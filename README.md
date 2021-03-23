@@ -1,12 +1,10 @@
 <p align="center">
   <img src="https://i.ibb.co/D7bnCRR/cooltext379795493812892.png">
-</p>
+  <br>
 
-<h4 align="center">
-	A way to analyse how malware and/or goodware samples vary from each other using <a href="https://en.wikipedia.org/wiki/Entropy_(information_theory)">Shannon Entropy</a>, <a href="https://en.wikipedia.org/wiki/Hausdorff_distance">Hausdorff Distance</a> and <a href="https://en.wikipedia.org/wiki/Jaro%E2%80%93Winkler_distance">Jaro-Winkler Distance</a>
-</h4>
+  <h4>A way to analyse how malware and/or goodware samples vary from each other using <a href="https://en.wikipedia.org/wiki/Entropy_(information_theory)">Shannon Entropy</a>, <a href="https://en.wikipedia.org/wiki/Hausdorff_distance">Hausdorff Distance</a> and <a href="https://en.wikipedia.org/wiki/Jaro%E2%80%93Winkler_distance">Jaro-Winkler Distance</a></h4>
+  <br>
 
-<p align="center">
   <img alt="Python version" src="https://img.shields.io/badge/Python-v3.5+-yellow">
   <img alt="Project version" src="https://img.shields.io/badge/Current%20Version-v0.2-yellow">
 	<img alt="Codacy Grade" src="https://app.codacy.com/project/badge/Grade/06c8bdaa68414b7b84c096dbd47c0944">
