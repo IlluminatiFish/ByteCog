@@ -96,7 +96,7 @@ This program is distributed in the hope that it will be useful, but without ANY 
 You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/
 
 # Acknowledgements 
-Using a modified version of venkat-abhi's Shannon Entropy calculator to work with my project script, you can find the original one <a href="https://github.com/venkat-abhi/Entropy-Calculator/blob/master/shanon-calc.py">here</a>.
+Using a modified version of @venkat-abhi's Shannon Entropy calculator to work with my project script, you can find the original one <a href="https://github.com/venkat-abhi/Entropy-Calculator/blob/master/shanon-calc.py">here</a>.
 <br>
 Using the fastest method to get maximum key from a dictionary using this snippet <a href="https://stackoverflow.com/questions/268272/getting-key-with-maximum-value-in-dictionary">here</a>.
 
