@@ -150,7 +150,6 @@ def byteCogStartup():
             print(f" - Offset: {offset} | Entropy Drift: {entropy_drift}")
         print()
 
-        difference = None
 
         if known_file_extracted_content and unknown_file_extracted_content:
             """
@@ -163,17 +162,24 @@ def byteCogStartup():
             print(unknown_file_extracted_content)
 
             """
-                Implements a string distance metric algorithm, Jaro-Winkler in this case to verify
+                Implements a string distance metric algorithm, Jaro-Winkler in this case to verify 
                 if the Hausdorff Distance is a valid percentage for the similarity between each sample
             """
 
             if known_file_extracted_content != unknown_file_extracted_content:
-                known_file_extracted_content_string = known_file_extracted_content.decode()
-                unknown_file_extracted_content_string = unknown_file_extracted_content.decode()
+                difference = None
+                try:
+                    known_file_extracted_content_string = known_file_extracted_content.decode()
+                    unknown_file_extracted_content_string = unknown_file_extracted_content.decode()
+                except UnicodeDecodeError:
+                    print("\n[+] Failed to decode extracted content from bytes to string..\n[+] Attempting to cast to string object")
+                    known_file_extracted_content_string = str(known_file_extracted_content)
+                    unknown_file_extracted_content_string = str(unknown_file_extracted_content)
 
-                jaro_span = jaro_distance(known_file_extracted_content_string, unknown_file_extracted_content_string)
+                if known_file_extracted_content_string is not None and unknown_file_extracted_content_string is not None:
+                    jaro_span = jaro_distance(known_file_extracted_content_string, unknown_file_extracted_content_string)
 
-                difference = (1 - jaro_span) * 100
+                    difference = (1 - jaro_span) * 100
 
         res_a = list_tuple_merger(k_x, k_y)
         res_b = list_tuple_merger(u_x, u_y)
