@@ -163,7 +163,7 @@ def byteCogStartup():
             print(unknown_file_extracted_content)
 
             """
-                Implements a string distance metric algorithm, Jaro-Winkler in this case to verify 
+                Implements a string distance metric algorithm, Jaro-Winkler in this case to verify
                 if the Hausdorff Distance is a valid percentage for the similarity between each sample
             """
 
