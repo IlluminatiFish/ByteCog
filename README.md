@@ -21,7 +21,7 @@
 	<strong>
 		<a href="https://github.com/IlluminatiFish/ByteCog/blob/main/README.md#usage">Usage</a>
 		•
-		<a href="https://github.com/IlluminatiFish/ByteCog/releases">Download</a>
+		<a href="https://github.com/IlluminatiFish/ByteCog/blob/main/README.md#installation">Download</a>
 	</strong>
 </p>
 
