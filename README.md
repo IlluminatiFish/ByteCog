@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/github/license/IlluminatiFish/ByteCog">
   <img src="https://img.shields.io/github/last-commit/IlluminatiFish/ByteCog">
 
-
+  <br>
   <strong>
 	<a href="https://github.com/IlluminatiFish/ByteCog/blob/main/README.md#usage">Usage</a>
 		•
