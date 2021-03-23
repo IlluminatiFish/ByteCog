@@ -3,6 +3,14 @@ import math
 
 class JaroDistanceException(Exception):
     def __init__(self, message):
+        """
+            Enables the usage of the JaroDistanceException class as an exception, 
+            which then allows us to 'raise' it as a valid Exception with the :param message:
+            
+            :param message: Error message being displayed via the class exception
+          
+            :return: N/A
+        """
         super(Exception, self).__init__(message)
 
 
