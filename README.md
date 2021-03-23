@@ -3,11 +3,28 @@
 </p>
 
 # ByteCog
-A way to analyse how malware and/or goodware samples vary from each other using <a href="https://en.wikipedia.org/wiki/Entropy_(information_theory)">Shannon Entropy</a>
+A way to analyse how malware and/or goodware samples vary from each other using <a href="https://en.wikipedia.org/wiki/Entropy_(information_theory)">Shannon Entropy</a>, <a href="https://en.wikipedia.org/wiki/Hausdorff_distance">Hausdorff Distance</a> and <a href="https://en.wikipedia.org/wiki/Jaro%E2%80%93Winkler_distance">Jaro-Winkler Distance</a>
+
+# Screenshots
+Chunked Entropy Graph
+![chunk_entropy_graph](https://user-images.githubusercontent.com/45714340/112214987-bdb7ae00-8c17-11eb-98c0-bebcda6fc1ba.png)
+
+Output of ByteCog
+![bytecog_output](https://user-images.githubusercontent.com/45714340/112215120-e475e480-8c17-11eb-908d-a2e4c205521c.png)
+
+
+# Acknowledgements 
+Using a modified version of venkat-abhi's Shannon Entropy calculator to work with my project script, you can find the original one <a href="https://github.com/venkat-abhi/Entropy-Calculator/blob/master/shanon-calc.py">here</a>.
+<br>
+Using the fastest method to get maximum key from a dictionary using this snippet <a href="https://stackoverflow.com/questions/268272/getting-key-with-maximum-value-in-dictionary">here</a>.
 
 
 # References
 [Entropy Wiki](https://en.wikipedia.org/wiki/Entropy_(information_theory))
+<br>
+[Jaro-Winkler Distance Wiki](https://en.wikipedia.org/wiki/Jaro%E2%80%93Winkler_distance)
+<br>
+[Hausdorff Distance Wiki](https://en.wikipedia.org/wiki/Hausdorff_distance)
 <br>
 [Shannon Calculator](https://github.com/venkat-abhi/Entropy-Calculator/blob/master/shanon-calc.py)
 <br>
