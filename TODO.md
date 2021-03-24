@@ -1,6 +1,6 @@
 ### To do: 
 
-- [ ] Allow for multiple files to be scannned
+- [ ] Allow for multiple files to be scanned
 - [ ] Make a log file of each scan
   
 
