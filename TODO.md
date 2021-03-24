@@ -1,10 +1,10 @@
-### To do:
+### To do: 
 
 - [ ] Allow for multiple files to be scannned
 - [ ] Make a log file of each scan
   
 
-### In progress:
+### In progress: ~
 
 N/A
 
