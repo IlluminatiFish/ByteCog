@@ -1,10 +1,9 @@
 <p align="center">
   <img src="https://i.ibb.co/D7bnCRR/cooltext379795493812892.png">
-<p>
+</p>
 	
 <p align="center">
-  <h4>A way to analyse how malware and/or goodware samples vary from each other using <a href="https://en.wikipedia.org/wiki/Entropy_(information_theory)">Shannon Entropy</a>, <a href="https://en.wikipedia.org/wiki/Hausdorff_distance">Hausdorff Distance</a> and <a href="https://en.wikipedia.org/wiki/Jaro%E2%80%93Winkler_distance">Jaro-Winkler Distance</a>
-  </h4>
+  <h4 align="center">A way to analyse how malware and/or goodware samples vary from each other using <a href="https://en.wikipedia.org/wiki/Entropy_(information_theory)">Shannon Entropy</a>, <a href="https://en.wikipedia.org/wiki/Hausdorff_distance">Hausdorff Distance</a> and <a href="https://en.wikipedia.org/wiki/Jaro%E2%80%93Winkler_distance">Jaro-Winkler Distance</a></h4>
 </p>  
 
 <p align="center">
