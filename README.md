@@ -82,6 +82,11 @@ Output of ByteCog
 <br>
 ![bytecog_output](https://user-images.githubusercontent.com/45714340/112215120-e475e480-8c17-11eb-908d-a2e4c205521c.png)
 
+ByteCog Log File
+<br>
+![bytecog log file](https://user-images.githubusercontent.com/45714340/112740204-f686b880-8f72-11eb-9bb2-84023dbcdfb7.PNG)
+
+
 # License
 ByteCog - A way to analyse how malware and/or goodware samples vary from each other using <a href="https://en.wikipedia.org/wiki/Entropy_(information_theory)">Shannon Entropy</a>, <a href="https://en.wikipedia.org/wiki/Hausdorff_distance">Hausdorff Distance</a> and <a href="https://en.wikipedia.org/wiki/Jaro%E2%80%93Winkler_distance">Jaro-Winkler Distance</a> Copyright (c) 2021 IlluminatiFish
 
