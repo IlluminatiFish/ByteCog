@@ -66,7 +66,7 @@ optional arguments:
                         If you want to show a visual representation of the file entropy
  ```
 
-# Features
+# Features & Use Cases
 
 - Calculates sample similarity
 - Generates chunked entropy graph
