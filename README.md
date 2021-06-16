@@ -33,7 +33,7 @@ Clone this repository to your local machine by following these instructions laye
 
 Then proceed to download the dependencies file by running the following line in your console window
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 # Usage
